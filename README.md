@@ -18,5 +18,9 @@ RhymeBankUI is a simple Java Swing-based application that simulates basic bank o
 
 ```bash
 javac RhymeBankUI.java Customer.java
-
+java RhymeBankUI
 ``
+
+
+
+
